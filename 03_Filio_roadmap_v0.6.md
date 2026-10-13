@@ -62,14 +62,16 @@ El programa de seis iniciativas del Branding v0.8 constituye la **base de planif
 |---|---|---|
 | GOV-01 | Setup de Project / HQ y trigger inicial | **Completado; prueba anterior exitosa** |
 | GOV-02 | Plataforma fundacional de Branding | **Aprobada en HQ, 12/10/2026**; serie 04 final como etapa de estrategia |
-| GOV-03 | Seis series oficiales 00–05 y starter separado | **Biblioteca autorizada y cerrada editorialmente en HQ**; publicación externa manual independiente |
-| GOV-04 | Reemplazo manual de fuentes y verificación del trigger de este corte | **No verificable desde el paquete**; se confirma únicamente mediante prueba posterior del fundador |
-| GOV-05 | Acceso automatizado a GitHub anunciado | **No verificado**, no bloqueante |
+| GOV-03 | Seis series oficiales 00–05 gobernadas por `starter.md` en GitHub | **Aprobadas y publicadas en `main`; manifiesto y rutas disponibles** |
+| GOV-04 | Disparador `Hola Filio.md` en la biblioteca del Project y delegación a GitHub | **Instalación confirmada**; prueba integral del trigger bajo el nuevo protocolo todavía sin constancia independiente |
+| GOV-05 | Acceso público y lectura del repositorio desde el conector GitHub | **Verificado** (repositorio, `main`, `starter.md` y Status v0.7); lectura íntegra por ventanas probada en commit anterior |
 
 ## Próximo movimiento recomendado
 
 **Próximo ciclo de ejecución, sin fecha de entrega comprometida:** solicitar inventario/precio/costos y arrancar la auditoría de WooCommerce, en paralelo al laboratorio de observación y a la auditoría del isotipo. Una vez los datos de producto existan, priorizar diseño fiel de ficha y primera experiencia de compra. No dedicar nuevas sesiones a redefinir el concepto fundacional salvo evidencia relevante que lo justifique.
 
-**Autoridad:** `Hola Filio.md` fija los nombres exactos de las versiones; Status resume situación; Decision Log ratifica las decisiones; Branding y Diseño desarrollan el fondo. Los antecedentes históricos en otros documentos no son órdenes de trabajo actuales.
+**Autoridad:** `starter.md` de GitHub fija los nombres exactos y controla la lectura de las seis versiones. `Hola Filio.md` solo remite al starter desde la biblioteca. Status resume la situación; Decision Log ratifica decisiones; Branding y Diseño desarrollan sus ámbitos. Los antecedentes históricos no sustituyen al manifiesto publicado.
 
 **Historial:** v0.4 (11/10) transición de diseño; v0.5 (12/10) aplicación del branding fundacional; **v0.6 (12/10)** separa cierre editorial del trabajo comercial y técnico real, y actualiza todas las referencias al registro autorizado.
+
+**Conciliación de despliegue en HQ (12/10/2026):** GOV-03, GOV-04 y GOV-05 reflejan la migración GitHub ya publicada y el acceso verificado. La eventual prueba de inicialización integral desde otra conversación o cuenta es control técnico adicional, no aprobación editorial pendiente.

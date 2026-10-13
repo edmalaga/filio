@@ -68,7 +68,7 @@ La auditoría del sitio del 08/10/2026 identificó **contenido provisional y rie
 
 ## 6. Programa de aplicación y prioridades del negocio
 
-Branding v0.8 propone **seis iniciativas**, requeridas como base de trabajo pero sin órdenes de ejecución ni gates aprobados: **(1) Observación Filio, (2) Voz y personalidad, (3) Identidad visual, (4) Verdad del producto, (5) Primera experiencia, (6) Recompra**. Las iniciativas 1 y 4 pueden avanzar en paralelo; la primera compra debe comprobarse antes de prometer reposición sencilla. El **Roadmap v0.6** detalla la priorización transversal; el **Status v0.6** conserva la situación actual; el **Decision Log v0.5** acredita aprobaciones.
+Branding v0.8 propone **seis iniciativas**, requeridas como base de trabajo pero sin órdenes de ejecución ni gates aprobados: **(1) Observación Filio, (2) Voz y personalidad, (3) Identidad visual, (4) Verdad del producto, (5) Primera experiencia, (6) Recompra**. Las iniciativas 1 y 4 pueden avanzar en paralelo; la primera compra debe comprobarse antes de prometer reposición sencilla. El **Roadmap v0.6** detalla la priorización transversal; el **Status vigente que declare `starter.md` (actualmente v0.7)** conserva la situación actual; el **Decision Log v0.5** acredita aprobaciones.
 
 No se han aprobado fechas de lanzamiento, presupuesto, resultados de mercado ni escala futura de crecimiento. Ninguna fuente pública del ecommerce sustituye decisiones expresas y evidencia verificable.
 

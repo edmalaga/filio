@@ -16,7 +16,7 @@ Este registro conserva decisiones expresamente aprobadas, sus razones, sus lími
 
 ## Lectura vigente al 12/10/2026
 
-La **etapa fundacional de Branding está aprobada y cerrada** como decisión de HQ; sus componentes ratificados son el **concepto textual**, el **storytelling matriz con sus métodos** y los **cinco valores**. Las aprobaciones se documentan expresamente en **FIL-DEC-021 a FIL-DEC-024** y no convierten rutas creativas, propuesta de misión, tagline, artes, calidad del café o entregas en resultados acreditados. Las seis iniciativas de Branding son **base solicitada**, mientras los detalles de ejecución siguen propuestos (FIL-DEC-025). La autoridad de versiones exactas se fija únicamente en `Hola Filio.md`, no en referencias históricas de estas entradas.
+La **etapa fundacional de Branding está aprobada y cerrada** como decisión de HQ; sus componentes ratificados son el **concepto textual**, el **storytelling matriz con sus métodos** y los **cinco valores**. Las aprobaciones se documentan expresamente en **FIL-DEC-021 a FIL-DEC-024** y no convierten rutas creativas, propuesta de misión, tagline, artes, calidad del café o entregas en resultados acreditados. Las seis iniciativas de Branding son **base solicitada**, mientras los detalles de ejecución siguen propuestos (FIL-DEC-025). La autoridad de rutas y versiones exactas se fija **únicamente en `starter.md` publicado en GitHub**; `Hola Filio.md` es solo el puente del Project hacia ese controlador. Esta regla sustituye al mecanismo de lista blanca local anterior (FIL-DEC-027).
 
 **Decisiones aún por tomar en ejecución:** sistema de voz/verbal definitivo; selección de dirección visual, masters y normas; definición comercial de inventario y claims; operación de checkout/entrega, precios y márgenes; piloto de compra. No hace falta reabrir la aprobación del concepto fundacional.
 
@@ -224,4 +224,18 @@ La lista administrativa del 11/10 sobre «integrar y probar el paquete anterior�
 
 **Historial v0.4 (12/10/2026):** registró concepto, storytelling y valores aprobados y el cierre fundacional.
 
-**Historial v0.5 (12/10/2026):** limpieza de referencia histórica y eliminación de una lista obsoleta de trámites editoriales, sin fabricar nuevas decisiones ni renumerar FIL-DEC-001 a FIL-DEC-026. La autoridad actual es el registro de `Hola Filio.md`; la publicación material queda bajo control del fundador.
+**Historial de cierre editorial v0.5 (12/10/2026):** depuración de estados de las primeras 26 decisiones. La anotación que situaba la lista blanca en `Hola Filio.md` queda **superada** por la decisión posterior FIL-DEC-027, registrada como adenda del mismo corte; la publicación material sigue bajo control del fundador.
+
+
+## Adenda de gobernanza aprobada en HQ — 12/10/2026
+
+### FIL-DEC-027 | GitHub como fuente única de verdad y nuevo protocolo de activación
+- **Estado:** Vigente
+- **Tipo:** Gobierno del proyecto / Tecnología
+- **Evidencia:** Decisión expresa del fundador, instalación del iniciador en la biblioteca y comprobación del repositorio público y su `main` (commit `faf9381c44ccec47126fae7ca80786639a3f9cfd`).
+- **Decisión:** `edmalaga/filio`, rama `main`, es la fuente canónica del conocimiento documental aprobado. **`starter.md` es el único manifiesto de versiones y controlador de carga verificable.** `Hola Filio.md` permanece en la biblioteca del Project como puente estable sin versiones ni inventario. HQ integra, aprueba y concilia; el fundador actualiza el repositorio local y realiza los pushes. Los seis documentos de contenido son las series 00–05.
+- **Implementación:** Status v0.7 y `starter.md` ya están publicados y la biblioteca contiene el puente actualizado. Se da por completado el cambio arquitectónico; no queda otra aprobación pendiente. Las reglas detalladas de recuperación, commit fijo, ventanas adaptativas, SHA, bloqueos y declaración honesta de éxito residen exclusivamente en `starter.md`.
+- **Relación con decisiones anteriores:** amplía y **sustituye el mecanismo de lista blanca local** descrito en FIL-DEC-011, FIL-DEC-017 y FIL-DEC-026, sin revocar el rol de HQ, la aprobación de Branding ni los límites de evidencia. Las referencias históricas al antiguo iniciador no tienen autoridad operativa.
+- **Límite:** la publicación del protocolo no demuestra por sí misma una inicialización completa desde una conversación nueva o una cuenta externa. Tampoco autoriza cambios remotos automáticos ni garantiza que las herramientas de todas las cuentas permitan cargar íntegramente el repositorio.
+
+**Nota de control:** esta adenda concilia el despliegue confirmado durante el mismo corte v0.5; los nombres de las seis versiones declaradas en `starter.md` se mantienen por instrucción del fundador. Git conserva la trazabilidad de esta corrección mediante el siguiente commit manual.

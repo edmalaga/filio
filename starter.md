@@ -28,7 +28,7 @@ Este inventario es la **lista blanca exclusiva** de fuentes documentales de Fili
 | 04 | `04_Filio_Branding_v0.8.md` | Plataforma fundacional, investigación y desarrollo estratégico |
 | 05 | `05_Filio_Diseno_de_Marca_v0.5.md` | Registro de diseño, exploraciones y restricciones técnicas |
 
-**Actualización aprobada por el fundador:** el Status de la serie 00 pasa a `00_Filio_status_v0.7.md`. Esta declaración corresponde al manifiesto que se publicará junto con el nuevo archivo en GitHub; hasta que ambos estén publicados en el mismo estado de `main`, no debe afirmarse que la nueva versión ya está operativa. El Status v0.7 fue redactado inicialmente como propuesta para HQ; su encabezado y referencias a aprobación pendiente deberán reconciliarse posteriormente en HQ, sin que `starter.md` modifique silenciosamente su contenido.
+**Estado del manifiesto (12/10/2026):** el fundador aprobó `00_Filio_status_v0.7.md` como Status vigente, y tanto esa ruta como este `starter.md` ya están publicados en `main`. La revisión de HQ corrigió en Status v0.7 las anotaciones transitorias que todavía hablaban de aprobación o despliegue futuro. No existe otra ratificación pendiente de esas fuentes. Cualquier cambio posterior de contenido se publica mediante un nuevo commit del fundador; el manifiesto publicado, leído desde un commit fijo, determina siempre las versiones vigentes.
 
 **Las seis series son obligatorias en cada inicialización completa.** No se admite omitir una por tamaño, familiaridad o aparente irrelevancia. Cuando HQ apruebe otra versión, el fundador actualizará la ruta correspondiente en este manifiesto y publicará el archivo real. Las rutas viejas no conservan autoridad por permanecer en el historial de Git ni por estar guardadas en otras fuentes. No inferir nuevas rutas a partir de versiones contiguas o patrones de nombres.
 
@@ -119,7 +119,7 @@ Distinguir al reportar: repositorio inaccesible; permisos; rama/commit inaccesib
 
 ## 6. Uso y mantenimiento
 
-El fundador conserva la responsabilidad de publicar las nuevas versiones y actualizar este manifiesto en GitHub, preferiblemente mediante una operación coherente que evite referencias a archivos aún no publicados. **Para este cambio, publicar `00_Filio_status_v0.7.md` y este `starter.md` en el mismo push o commit**, y verificar que el manifiesto no apunte a un archivo ausente. HQ realizará después la conciliación y el control final, según las instrucciones del fundador. Los colaboradores podrán leer el repositorio público, pero no adquieren autoridad para aprobar decisiones ni modificar las fuentes por ese solo hecho.
+**Despliegue inicial confirmado:** `starter.md` y Status v0.7 ya se encuentran en `main`, con el manifiesto de seis series accesible públicamente. La presente conciliación de redacción se entrega al fundador para incorporarla a su repositorio local y publicarla mediante un nuevo push. En adelante, HQ integra y reconcilia las actualizaciones y el fundador publica preferiblemente los nuevos documentos y el manifiesto en un mismo commit, evitando rutas que aún no existan. Los colaboradores pueden leer el repositorio público, pero no adquieren autoridad para aprobar decisiones ni modificar las fuentes por ese solo hecho.
 
 `Hola Filio.md` es un **puente permanente** hacia este archivo, no un espejo del inventario. Los cambios de nombres, versiones y contenido de los seis documentos se resuelven **aquí**. El iniciador local no necesita redistribuirse por cada actualización documental.
 

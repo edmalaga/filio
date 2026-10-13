@@ -973,6 +973,6 @@ Calidad sensorial comparada; evidencia técnica de especialidad; procedencias po
 
 ### 28.4. Control de publicación y dependencias
 
-**Cierre editorial HQ, 12/10/2026:** `04_Filio_Branding_v0.8.md` es el **único documento vigente de la serie 04** para esta consolidación. El concepto fundacional, storytelling y valores aprobados se han registrado en Decision Log v0.5; Status, Master Brief, Roadmap, Diseño y `Hola Filio.md` se actualizan como conjunto. El fundador sustituirá después las copias en repositorio local, GitHub y biblioteca del Project. **No se certifica sincronización, publicación remota ni nueva prueba de inicialización** por el solo hecho de entregar el ZIP.
+**Cierre editorial HQ, 12/10/2026:** `04_Filio_Branding_v0.8.md` es el **único documento vigente de la serie 04** y está publicado en el repositorio canónico. El concepto fundacional, storytelling y valores aprobados constan en Decision Log v0.5. El inventario de versiones y la carga se rigen exclusivamente por `starter.md` en GitHub; `Hola Filio.md` es solo el puente de la biblioteca. El fundador publica las siguientes revisiones mediante push. La publicación documental no certifica una nueva prueba integral del trigger, ventas ni aplicaciones comerciales.
 
 **Fin del documento final de la etapa fundacional de Branding v0.8.**

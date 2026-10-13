@@ -10,7 +10,7 @@
 **Ámbito:** la totalidad de la etapa fundacional documentada en v0.1 y su continuación en pruebas creativas de contenido para redes, desde el benchmark editorial de publicaciones hasta las aplicaciones Instagram 4:5 y la comprobación visual del packaging físico.  
 **Responsabilidad editorial:** documento de continuidad elaborado por el asistente a partir de la conversación de diseño, archivos proporcionados, exploraciones y correcciones explícitas del fundador.
 
-> **REGLA DE AUTORIDAD VIGENTE.** Serie 05 v0.5 aprobada como memoria oficial de diseño, subordinada a `04_Filio_Branding_v0.8.md` (concepto, storytelling y cinco valores ya aprobados) y a `02_Filio_Decision_Log_v0.5.md`. La aprobación documental **no convierte** ensayos, geometría sin validación, copys, renders ni aplicaciones en masters o campañas finales. `Hola Filio.md` controla las versiones; el fundador publica manualmente en local, Project y GitHub.
+> **REGLA DE AUTORIDAD VIGENTE.** Serie 05 v0.5 aprobada como memoria oficial de diseño, subordinada a `04_Filio_Branding_v0.8.md` (concepto, storytelling y cinco valores ya aprobados) y a `02_Filio_Decision_Log_v0.5.md`. La aprobación documental **no convierte** ensayos, geometría sin validación, copys, renders ni aplicaciones en masters o campañas finales. `starter.md` en GitHub controla las versiones; `Hola Filio.md` es exclusivamente el disparador del Project y el fundador publica manualmente los cambios.
 
 ---
 
@@ -771,9 +771,9 @@ La conclusión crítica, reiterada durante el proceso, es que **coherencia esté
 
 La propuesta original del **11/10** consistía en abrir la sexta serie documental, registrar sus restricciones de diseño, actualizar Status, Decision Log, Roadmap e iniciador y comprobar el acceso a la nueva versión.
 
-**Resultado HQ, 12/10:** las seis series están **aprobadas como documentación oficial y viva**. Este documento corresponde a la versión vigente `05_Filio_Diseno_de_Marca_v0.5.md`. Los pasos de revisión, registro e integración interna de la serie 05 **ya se resolvieron en HQ**; no se mantiene una aprobación documental en espera. `Hola Filio.md` contiene el índice exacto.
+**Resultado HQ, 12/10:** las seis series están **aprobadas como documentación oficial y viva**. Este documento corresponde a la versión vigente `05_Filio_Diseno_de_Marca_v0.5.md`. Los pasos de revisión, registro e integración interna de la serie 05 **ya se resolvieron en HQ**; no se mantiene una aprobación documental en espera. El índice exacto reside únicamente en `starter.md` en GitHub; `Hola Filio.md` solo dirige hacia él.
 
-**Acción externa diferente:** el fundador mantiene el control de publicación de este paquete en su repositorio local, GitHub y archivos del Project; su sustitución material y una eventual prueba posterior del trigger no se presumen realizadas por este documento. Las hipótesis visuales, normas no verificadas y piezas de ensayo siguen sin aprobación técnica/comercial, conforme a su estado real.
+**Publicación y verificación:** la arquitectura GitHub y el iniciador local están desplegados según comprobación de HQ del 12/10. El fundador conserva la responsabilidad de publicar futuras revisiones mediante push; una prueba integral desde otra conversación deberá informarse por separado. Las hipótesis visuales, normas no verificadas y piezas de ensayo siguen sin aprobación técnica/comercial, conforme a su estado real.
 
 ---
 
@@ -1242,7 +1242,7 @@ La sesión de Diseño de Marca conserva **autoridad documental y continuidad**. 
 
 Queda cerrada **la incorporación documental** de la serie 05. Los registros sobre «candidato», «actualizar whitelist» o versiones v0.1/v0.2 pendientes son **antecedentes históricos**, no acciones de publicación vigentes. La referencia estratégica actual es `04_Filio_Branding_v0.8.md`; la autoridad de decisiones corresponde a `02_Filio_Decision_Log_v0.5.md`; el seguimiento de ejecución está en `03_Filio_roadmap_v0.6.md`.
 
-**Se conserva como trabajo no realizado** la inspección profesional de vectores, firma, paleta, tipografías de uso, pruebas de reproducción, piezas autorizadas y evidencia de mercado. Ninguna de esas carencias supone que el documento de diseño esté pendiente de aprobación editorial. El fundador reemplazará externamente los archivos cuando corresponda.
+**Se conserva como trabajo no realizado** la inspección profesional de vectores, firma, paleta, tipografías de uso, pruebas de reproducción, piezas autorizadas y evidencia de mercado. Ninguna de esas carencias supone que el documento de diseño esté pendiente de aprobación editorial. El fundador mantiene la publicación manual de las siguientes revisiones en GitHub.
 
 **Historial v0.5:** depuración de nomenclatura y estados, transformación de las instrucciones históricas de incorporación en registro retrospectivo y alineación con Branding fundacional final.
 
