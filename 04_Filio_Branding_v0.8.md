@@ -1,21 +1,29 @@
-# FILIO | Branding — Plataforma estratégica integrada v0.3
+# FILIO | Branding — Plataforma estratégica y concepto fundacional integrado v0.8
 
 **Proyecto:** Filio Café  
 **Marca:** Filio  
 **Área:** Branding e identidad  
-**Archivo:** `04_Filio_Branding_v0.3.md`  
-**Versión:** 0.3  
-**Fecha de corte:** 9 de octubre de 2026  
-**Estado:** borrador v0.3 para revisión y aprobación del fundador. La v0.2 adjunta es la base documental recibida; no se presume su aprobación formal.  
-**Ciclo cubierto:** I — descubrimiento estratégico; II — análisis competitivo local y latinoamericano; III — diferenciación, credibilidad, beneficios, misión, tagline, personalidad, tono de voz y criterios de copy  
-**Próximo trabajo:** validar plataforma, priorizar pruebas, desarrollar identidad verbal y visual, y traducir estrategia en experiencia digital.
+**Archivo:** `04_Filio_Branding_v0.8.md`  
+**Versión:** 0.8  
+**Fecha de corte:** 12 de octubre de 2026  
+**Estado documental:** **APROBADO Y VIGENTE EN HQ — ETAPA FUNDACIONAL CERRADA (12/10/2026).** La v0.8 depura estados y referencias de la consolidación v0.7, sin reabrir aprobaciones estratégicas. El concepto fundacional, storytelling estratégico, metodología y cinco valores están aprobados por el fundador. El programa de aplicación de seis iniciativas es una base solicitada, con detalles operativos aún propuestos.  
+**Ciclo cubierto:** I — descubrimiento estratégico; II — análisis competitivo local y latinoamericano; III — diferenciación, credibilidad, beneficios, misión, tagline, personalidad, tono de voz y criterios de copy; IV — estudio metodológico de Clara, formulación del desafío, concepto fundacional aprobado y contraste de tres territorios creativos; V — storytelling matriz, valores aprobados, aplicaciones y programa operativo de seis iniciativas  
+**Próximo trabajo:** validar el programa operativo de seis iniciativas, iniciar observación y verdad del producto en paralelo, desarrollar voz y mecanismos visuales propios, y ensayar primera compra antes de plantear la recompra.
 
-> **Gobernanza documental.** Esta versión desarrolla la v0.2 entregada por el fundador. Las propuestas elaboradas por el estratega durante el Bloque III no pasan automáticamente a decisiones de marca aprobadas. Las dos candidatas de tagline conservadas y las alternativas descartadas son decisiones explícitas del fundador. No se ha editado físicamente `Hola Filio.md` ni cambiado el registro de autoridad del Project; la publicación/aprobación de v0.3 requiere acción expresa en HQ. Las versiones anteriores siguen siendo antecedentes históricos, no se declara su borrado técnico.
+> **Gobernanza y autoridad (HQ, 12/10/2026).** Esta v0.8 es la **fuente oficial y final de la etapa fundacional** de Branding; reemplaza a v0.7 y a todas las versiones anteriores como autoridad documental. El fundador aprobó el **concepto literal** (§12.3), el **storytelling y métodos** (§13) y los **cinco valores** (§14). **No aprobó por ello** un tagline, misión pública, ruta A/B/C, sistema visual, campaña, claims del café ni ejecución del programa de seis iniciativas. Las notas sobre «publicación pendiente» de iteraciones antiguas se conservan únicamente como historia de trabajo. Las cifras comerciales del caso Clara proceden del testimonio del fundador y no de una auditoría.
+---
+
+## Lectura ejecutiva vigente de HQ — 12/10/2026
+
+**La etapa fundacional de la estrategia está cerrada y aprobada; la versión de contenido vigente es v0.8.** Su núcleo no es una lista de adjetivos o campañas, sino la idea de **ganarse un lugar en la vida de las personas** respetando distintas maneras de disfrutar café, logrando ser recordados y mereciendo el retorno por experiencia real. En las secciones 12–14 constan la formulación textual aprobada, la arquitectura narrativa **Reconocer → Conectar → Merecer**, el método **Observación → Significado → Emoción → Expresión** y los valores **Autenticidad, Cercanía, Sensibilidad, Confianza y Aprecio por lo bien hecho**.
+
+**Lo todavía abierto no es una revisión del documento:** formulación externa de posicionamiento y misión, personalidad/voz definitiva en guía de uso, tagline, rutas de ejecución, activos visuales, operación y validaciones. El programa de seis iniciativas (§16) es una **propuesta de implementación solicitada**, no una orden de despliegue ni evidencia de resultados. Las secciones de hipótesis e investigación se preservan completas como proceso histórico; cuando una frase anterior difiera del presente, prevalecen las decisiones concretas de §§12–14 y FIL-DEC-021 a FIL-DEC-025.
+
 ---
 
 ## 1. Naturaleza y criterios del documento
 
-Es una **base de decisiones en evolución**, no un moodboard, un manifiesto, una lista de competidores ni unas brand guidelines. Reúne la realidad declarada del negocio, el descubrimiento humano, la lectura competitiva y las consecuencias operativas de las posibles estrategias. Conserva los matices de la primera exploración, pero reorganiza su significado después de contrastarlo con marcas existentes. Esta versión conserva la corrección competitiva de v0.2 y añade una plataforma estratégica provisional articulada en beneficios, vínculo, personalidad y comportamiento. Sigue siendo cierto que: **la sencillez, la proximidad y el café cotidiano no representan un territorio competitivo libre**. Lo que aún puede ser distintivo es cómo Filio los convierte en una experiencia reconocible, verificable y fácil de repetir.
+Es el **documento final aprobado de la etapa fundacional y una base viva para desarrollar aplicaciones**, no un moodboard, un manifiesto público ni unas brand guidelines técnicas. Reúne la realidad declarada del negocio, el descubrimiento humano, la lectura competitiva y las consecuencias operativas de las posibles estrategias. Conserva los matices de la primera exploración, pero reorganiza su significado después de contrastarlo con marcas existentes. Esta versión conserva la corrección competitiva de v0.2 y el desarrollo de v0.4, y **reordena su interpretación desde un concepto fundacional expresamente aprobado**, articulando en una secuencia más precisa problema comercial, observación del consumidor, identidad reconocible, experiencia repetible y prueba. La conceptualización de marca no sustituye el posicionamiento competitivo, la calidad del lote ni la capacidad logística. Sigue siendo cierto que: **la sencillez, la proximidad y el café cotidiano no representan un territorio competitivo libre**. Lo que aún puede ser distintivo es cómo Filio los convierte en una experiencia reconocible, verificable y fácil de repetir.
 
 **Estados de lectura:** `CONFIRMADO POR FUNDADOR` significa declaración directa sin auditoría independiente; `ASPIRACIÓN` es una meta; `OBSERVADO EN FUENTE PÚBLICA` describe contenido visible, no desempeño comprobado; `INTERPRETACIÓN` es una conclusión del análisis; `HIPÓTESIS` es una opción para contrastar; `DECISIÓN VIGENTE` exige aprobación explícita; `POR VERIFICAR` indica carencia de evidencia. Las críticas a marcas competidoras se formulan como riesgos o fricciones posibles, nunca como fallas demostradas sin pruebas de usuarios, servicio o producto.
 
@@ -33,9 +41,9 @@ Filio es una marca de café peruano con lote físico envasado y sin posibilidad 
 
 **Hallazgo latinoamericano:** BUNA, COLO, Libertario, Pergamino, Moka Clube, Café con Jiribilla, Singular y Um Coffee Co. ilustran distintas maneras de integrar relato, producto y ecommerce. Cotidianidad, acceso sencillo y recurrencia **ya aparecen** en propuestas observadas. Las oportunidades de Filio tienen que ser concretas: mejor comprensión de la oferta para el público escogido, identidad peruana no estereotipada, experiencia doméstica coherente, ayuda para comprar y un servicio de reposición práctico si la logística y los márgenes lo permiten.
 
-**Tesis de plataforma, aún no aprobada:** Filio puede intentar pasar de *un café peruano atractivo que alguien prueba* a *una elección doméstica que una persona reconoce, confía en repetir y recomienda*. La promesa no puede ser más ambiciosa que el producto y la operación que la sostienen. El Bloque III añadió propuestas de diferenciación, misión, personalidad, voz y ejecución; **ninguna ha sido ratificada como plataforma final**. El tagline tiene solo dos candidatas activas, por elección expresa del fundador. El diseño visual y las mecánicas de recurrencia siguen abiertos.
+**Concepto fundacional aprobado (12/10/2026):** «El café ya tiene un lugar en sus vidas. Filio tiene que ganarse el suyo. Reconociendo las distintas maneras de disfrutarlo, construyendo una identidad que las personas puedan recordar y ofreciendo una experiencia que les dé razones para volver». Su papel es dar dirección a marca, producto y servicio, **no actuar como tagline o claim publicado**. El descubrimiento debe convertirse en preferencia mediante producto satisfactorio y cumplimiento. La tesis anterior de pasar de la prueba a la elección recurrente queda integrada como resultado buscado, no como concepto rector paralelo. El storytelling estratégico y los cinco valores ya han sido aprobados; sus aplicaciones y seis iniciativas cuentan con un plan propuesto. Las rutas de posicionamiento, las misiones, la personalidad expresiva final, el tagline y los activos visuales siguen abiertos; solo existen dos bases históricas activas de tagline.
 
-## 3. Reglas y decisiones que sí cambiaron durante la investigación
+## 3. Registro histórico de cambios de la investigación (las aprobaciones finales están en §§12–14)
 
 | Elemento | Estado | Consecuencia documental |
 |---|---|---|
@@ -44,7 +52,12 @@ Filio es una marca de café peruano con lote físico envasado y sin posibilidad 
 | Universo local | Decisión explícita de **descartar Altomayo, Britt y Juan Valdez** por carácter masivo | No incluirlas en el conjunto principal ni en futuras matrices de marcas competidoras |
 | Benchmark latinoamericano | Solo marcas con web y ecommerce propios; sin comparar precios entre países | Utilizarlo para aprender identidad, proposición, UX, experiencia y creatividad |
 | Personalidad, posicionamiento y visualidad | **No decididos** | El estratega debe proponer; el fundador aprueba |
-| Nueva fase tras este cierre | Pendiente de ejecución | Auditoría más profunda y síntesis estratégica, no otro discovery desde cero |
+| Concepto fundacional (12/10/2026) | **Aprobado expresamente por el fundador** | Gobernar la exploración creativa y el diseño de experiencia; registrar en Decision Log por HQ |
+| Rutas creativas A/B/C | **Exploradas, no aprobadas** | Evaluar mecanismos de expresión sin sustituir el concepto fundacional |
+| Storytelling estratégico y método Reconocer–Conectar–Merecer | **Aprobados expresamente por el fundador (12/10/2026)** | Orientan narración, decisiones y experiencia; no equivalen a manifiesto publicable |
+| Cinco valores de marca | **Aprobados expresamente por el fundador (12/10/2026)** | Aplicar Autenticidad, Cercanía, Sensibilidad, Confianza y Aprecio por lo bien hecho |
+| Programa de seis iniciativas | **Base de trabajo solicitada; desarrollo operativo propuesto** | Evaluar entregables, gates y viabilidad antes de ejecutar |
+| Nueva fase tras este cierre | Pendiente de ejecución | Desarrollar y probar el programa de aplicaciones, sin reabrir todo el discovery |
 
 **Correcciones de interpretación que permanecen:** el fundador no considera negativa la sofisticación; no aseguró que el café de la mañana sea la única ocasión; no aprobó una personalidad antropomorfizada; no afirmó que el producto supere a las marcas premium. El supuesto 60/40 de reposición y compra deliberada procede de una analogía con abarrotes y **no es estadística validada de café**.
 
@@ -327,7 +340,7 @@ Páginas con productos o compra observables en este ciclo o en la sesión de ben
 
 ## 11. Síntesis cruzada y cambio real de nuestra hipótesis
 
-En v0.1 la pregunta dominante era **qué café querríamos ser para quién**. Después del benchmark, la pregunta más exigente es **qué sistema de producto, identidad, experiencia y distribución permitiría ganar una preferencia que otras marcas ya persiguen**. No es correcto identificar «territorio disponible» con «palabras que nosotros hemos elegido». 
+En v0.1 la pregunta dominante era **qué café querríamos ser para quién**. Después del benchmark, la pregunta más exigente pasó a ser **qué sistema de producto, identidad, experiencia y distribución permitiría ganar una preferencia que otras marcas ya persiguen**. El Bloque IV acota esa pregunta: **el café ya está integrado en las vidas de muchas personas; una marca nueva tiene que ganarse un lugar reconocible y justificado dentro de esa relación preexistente**. No es correcto identificar «territorio disponible» con «palabras que nosotros hemos elegido». 
 
 ### 11.1. Territorios existentes y saturaciones probables
 
@@ -352,7 +365,267 @@ La identidad peruana podría surgir no solo del lugar de producción sino tambi�
 
 ---
 
-## 12. Tres rutas de posicionamiento aún abiertas
+## 12. Concepto fundacional aprobado: ganarse un lugar
+
+### 12.1. Origen del nuevo bloque y alcance de la decisión
+
+**DECISIÓN DE CONTENIDO APROBADA POR EL FUNDADOR EL 12/10/2026.** Después del Bloque III y de la exploración de Diseño de Marca, el fundador incorporó a la conversación de Branding una presentación de 15 páginas de la marca de huevos **Clara** («Presentacion Marca.pdf»), un caso desarrollado previamente mediante su propia metodología. Según su testimonio, la marca pasó de vender huevos sin identidad a un pequeño círculo a una microempresa con ventas por suscripción y una base recurrente de clientes. **El PDF documenta la arquitectura de identidad, no cifras, experimentos de atribución, retención ni causalidad comercial**. Es un antecedente metodológico, no un benchmark cuantitativo ni una fórmula a reproducir literalmente.
+
+La pregunta original del caso Clara partía de la indiferenciación de un huevo pardo común y respondía **«Contando una historia»**. En la presentación, la historia de una gallina criolla llamada Clara generó un temperamento (picardía, afecto, sabiduría popular), relaciones («tía», «sobrinos»), valores traducidos a acciones, lenguaje con dobles sentidos, colores, textura de cartón, motivos derivados del huevo y aplicaciones. La inferencia válida es **un orden de trabajo: problema comercial → idea fértil → personalidad y relaciones → comportamiento y voz → gramática visual → aplicaciones reconocibles → experiencia comercial a validar**. No concluir que crear una mascota, narrar una ficción o introducir humor sea una obligación para Filio.
+
+### 12.2. Problema fundacional y proceso de depuración
+
+**Statement de problema aprobado en conversación como punto de partida, con ajustes exploratorios posteriores:** «En un mercado lleno de marcas que hablan de calidad, origen y tradición, ¿cómo lograr que una nueva marca, sin cafetería ni reconocimiento previo, sea elegida, recordada y se convierta en parte de la vida cotidiana de las personas?». La versión específica que añade «nuevo café peruano» conserva el mismo desafío y no sustituye el concepto de la sección 12.3.
+
+La secuencia de debate hizo visibles tres distinciones decisivas:
+
+1. **«Su café» o «tu café» no respondían a la pregunta**. Son posibles remates expresivos sobre un resultado deseado, pero no especifican el mecanismo para alcanzarlo. El fundador los rechazó como cierre conceptual suficiente. **No elevarlos a tagline ni a idea rectora aprobada**.
+2. «Haciendo que las personas se reconozcan en la marca y encuentren en el producto una razón para quedarse» fue conservada **como parte del proceso**, no como cierre final. Integra identificación y sustancia comercial, pero todavía podía describir casi cualquier categoría.
+3. El avance consistió en reconocer una verdad humana más precisa: **las personas ya tienen relaciones, preferencias, utensilios y ocasiones propias alrededor del café antes de conocer Filio**. La marca no debe apropiarse de sus vidas ni inventarles rituales. Debe comprender esa relación y merecer entrar en ella.
+
+### 12.3. Formulación textual íntegra y estatus
+
+> **El café ya tiene un lugar en sus vidas. Filio tiene que ganarse el suyo.**  
+> **Reconociendo las distintas maneras de disfrutarlo, construyendo una identidad que las personas puedan recordar y ofreciendo una experiencia que les dé razones para volver.**
+
+**ESTADO: CONCEPTO FUNDACIONAL APROBADO POR EL FUNDADOR, 12/10/2026.** Es la formulación seleccionada después de sucesivas revisiones y del contraste con tres territorios creativos. Debe conservarse **literalmente** al citarlo como decisión. Su aprobación no acredita que Filio ya sea conocido, preferido o recomprado; enuncia el trabajo que debe realizar para llegar allí. No es tagline, misión publicable, claim de producto ni promesa de delivery.
+
+La primera oración **plantea una asimetría**: el café ya posee un lugar cultural y cotidiano; Filio todavía no se lo ha ganado. La segunda oración define un **mecanismo tripartito** y evita que la idea quede reducida a un punchline:
+
+| Responsabilidad | Problema que resuelve | Qué debe construir Filio | Cómo se comprobaría |
+|---|---|---|---|
+| **Reconocer distintas maneras de disfrutarlo** | Una nueva marca desconoce hábitos y preferencias del comprador | Investigación ligera, observación pertinente, lenguaje inclusivo, orientación útil por preparación y ocasión | Comprensión y pertinencia de contenidos; consultas reales, elección y uso; sin generalizaciones |
+| **Construir una identidad recordable** | La oferta de café y sus relatos son abundantes y confundibles | Voz y recursos visuales propios, repetición disciplinada de códigos, piezas con ideas editoriales reconocibles | Pruebas de recuerdo y atribución, reconocimiento sin logo, comparación con piezas de categoría |
+| **Dar razones para volver** | Una primera prueba no garantiza preferencia habitual | Experiencia sensorial suficiente, exactitud de la oferta, confianza, atención y recompra operativamente fácil | Satisfacción, cumplimiento, reclamos, segunda compra y margen; no solo likes o intención declarada |
+
+**Regla causal:** reconocimiento sin producto satisfactorio no asegura recurrencia; un buen producto sin reconocimiento puede perderse entre alternativas; recompra incentivada sin margen tampoco demuestra sostenibilidad. El concepto exige coherencia en las tres responsabilidades, pero no afirma que ya exista dicha coherencia.
+
+### 12.4. Qué aprendemos del benchmark de sistemas de marca
+
+El estudio de Clara y las referencias internacionales previas se releen para extraer **mecanismos**, no estilos copiables ni éxitos comerciales no acreditados:
+
+| Caso de estudio | Mecanismo observado o documentado | Lección aplicada a Filio | Límite de evidencia |
+|---|---|---|---|
+| **Clara** (presentación del fundador, 15 pp.) | Historia personificada → relaciones y valores → lenguaje picaresco, motivos y aplicaciones | La idea debe generar decisiones y no ser solo una frase; cada valor se convierte en comportamiento y gramática reconocible | Crecimiento y suscripciones reportados por fundador; sin series comerciales auditadas |
+| **York Coffee Emporium / Royal Flush Creative** | Replantear la presentación del café comprado a distancia, vinculando narrativa, gráfica y elección | Convertir una tensión del canal digital en una experiencia informativa y expresiva | Premios y detalles específicos deben verificarse en fuentes originales; no usar como prueba de ventas |
+| **COLO** | Cultura y carácter expresados mediante estructura de productos y lenguaje | Interpretación cultural con efectos sobre sistema, no decoración | No trasladar simbología colombiana ni inferir resultados |
+| **BUNA** | Convicción de marca relacionada con su propuesta y actividades | Una idea genuina puede orientar producto y operaciones | No adoptar una causa ambiental ficticia |
+| **Café con Jiribilla** | Voz y relaciones culturales específicas | Singularidad idiomática sin ridiculizar el café especializado | No copiar expresiones mexicanas |
+| **Pergamino / Moka Clube** | Reposición y descubrimiento expresados comercialmente | Darle una traducción operativa a «razones para volver» | El funcionamiento real y la viabilidad local deben probarse |
+
+Las evaluaciones de premios y trayectorias internacionales mencionadas durante la conversación son **referencias de aprendizaje**, no acreditaciones investigadas de nuevo en esta versión. El centro no es «ser como una marca premiada», sino examinar **cómo una idea productiva se convierte en una familia de decisiones**.
+
+### 12.5. Tres territorios derivados, expresamente no elegidos
+
+El equipo ensayó tres rutas para comprobar si el concepto genera sistemas creativos distintos:
+
+| Ruta explorada | Hipótesis creativa | Personalidad y voz | Operación visual que amerita prueba | Riesgo |
+|---|---|---|---|---|
+| **A. Las maneras de cada uno** — «Cada quien tiene su manera» | Preferencias, hábitos y pequeñas particularidades individuales | Observadora, ingeniosa, respetuosa; contrastes y detalles cotidianos | Objetos y métodos reales; variaciones ordenadas por una firma gráfica reconocible | Volverse una serie simpática genérica; no demostrar valor de producto |
+| **B. Lo que sucede alrededor** — «El café es parte de la historia» | Relaciones, conversaciones y acontecimientos en presencia de una taza | Cálida, narrativa, sensible; microhistorias y detalles | Escenas humanas, encuadres parciales, espacios negativos | Sentimentalismo de lifestyle y clichés de «momentos» |
+| **C. El que se gana su lugar** — «Los favoritos no se imponen» | Preferencia conquistada por satisfacción y servicio | Segura, honesta, sobria; afirmaciones precisas y contrastes | Editorial ordenado, claridad de producto, códigos visuales selectivos | Sonar corporativa y prometer una calidad aún no probada |
+
+El estratega **recomendó explorar A primero** por fertilidad de observaciones, usando la sensibilidad de B y el rigor de C como capacidades complementarias. **El fundador no aprobó la ruta A como concepto definitivo ni fusionó formalmente las tres**. Su aprobación posterior se limitó a la redacción exacta de 12.3. Mantener estos niveles separados evita convertir una recomendación del asistente en decisión del proyecto.
+
+**Ejemplos de prueba, no copys aprobados:** una cafetera con muchos años de uso; una cucharita cuya medida su dueño conoce; alguien que prepara café para uno y acaba sirviendo para tres; una conversación que se prolonga después de terminar la bebida. No transformarlos en reglas de campaña ni insistir en la mañana, en la nostalgia o en la superioridad de una preparación.
+
+### 12.6. Criterios para convertir el concepto en sistema de marca
+
+Toda futura ruta, pieza o decisión deberá pasar al menos por cuatro filtros: **verdad** (parte de experiencia o dato legítimo), **distintividad** (no es intercambiable con cualquier marca), **fertilidad** (genera múltiples expresiones sin agotarse) y **viabilidad** (puede producirse y sostenerse con recursos y operaciones reales). Añadir un quinto filtro específico de Filio: **conversión en experiencia**, es decir, cómo ayuda a elegir, disfrutar o volver sin exagerar atributos.
+
+**Prueba creativa mínima propuesta**, sin declarar resultados: preparar tres piezas individuales de 1080 × 1350 (4:5) con mecanismos diferentes: una observación individual, una situación relacional y una pieza comercial basada en producto verificado. Cada una debe responder: qué verdad observa, qué decisión visual la expresa, qué activo fiel emplea, qué comunica y qué experiencia concreta invita a vivir. Evaluarlas juntas para distinguir variedad de ideas de coherencia de marca.
+
+**Prueba comercial complementaria:** recopilar información válida sobre las presentaciones y el método de compra; observar comprensión de fichas y mensajes; diseñar un flujo piloto de primera compra y segunda compra con costos reales. La recurrente compra online es **una meta a medir**, no una ventaja actual.
+
+### 12.7. Relación con la plataforma previa y decisiones aún abiertas
+
+El concepto fundacional **reordena**, pero no anula, las ideas desarrolladas antes:
+
+- Las **tres rutas de posicionamiento históricas** son antecedentes de exploración del mercado y pueden informar una futura elección; ninguna es automáticamente la nueva posición de Filio.
+- Los **cinco diferenciadores** ahora se juzgan por su contribución a comprensión, recuerdo y repetición, con producto y economía real como límites.
+- **«Cercanía con criterio»**, los cinco adjetivos y el ingenio cotidiano son recursos exploratorios para desarrollar carácter, **no una personalidad final aprobada**. «Café con criterio» continúa descartado como territorio editorial en la sesión de Diseño.
+- Las **tres misiones** siguen pendientes; la misión futura deberá expresar propósito y responsabilidad sin confundirlas con este concepto.
+- Las **únicas dos bases de tagline** siguen siendo «El gusto de estar contigo.» y «Lo bueno de cada día.». Las expresiones «Su café», «Tu café», «Cada quien tiene su manera» y las demás de este bloque **no son nuevos candidatos de tagline**.
+- El **imagotipo heredado**, la restricción sobre el empaque actual y las direcciones técnicas pendientes de la serie 05 permanecen intactas.
+
+**Registro histórico de integración (resuelto en HQ el 12/10):** se registró el concepto, se actualizó Status e iniciador y se incorporaron FIL-DEC-021 a FIL-DEC-026. Esta v0.8 mantiene esa autoridad. La publicación material en Project/GitHub sigue siendo manual. **La conversación especializada original no ejecutó ni certifica esas actualizaciones.**
+
+---
+
+## 13. Storytelling estratégico aprobado: un sistema rector, no historias publicitarias
+
+### 13.1. Naturaleza de la decisión y distinción de niveles
+
+**DECISIÓN APROBADA POR EL FUNDADOR (12/10/2026):** se ratifica la arquitectura de storytelling desarrollada a continuación, incluido el método **Reconocer, conectar y merecer**. Esta aprobación es de filosofía y metodología de marca, no de un manifiesto listo para publicarse, una ficción de origen, una campaña, una mascota ni los borradores de microhistorias utilizados para explorar la dirección. La premisa procede del concepto fundacional literal de 12.3, al que complementa y no sustituye.
+
+El fundador corrigió explícitamente el rumbo cuando los primeros ensayos se concentraron en relatos sobre una cucharita, una taza y dos personas preparando café. Esos textos, incluso sus revisiones más emocionales, **no constituían el storytelling de Filio**: eran posibles aplicaciones editoriales. La marca necesita un **paraguas narrativo capaz de regir decisiones**, análogo en función metodológica al universo construido para Clara, pero no necesariamente personificado ni ficticio. Los ejemplos de microhistorias se conservan como antecedentes exploratorios, no como historias oficiales ni series de contenido aprobadas.
+
+### 13.2. Creencia, tensión, propósito y transformación
+
+**Creencia narrativa:** *Las cosas adquieren significado cuando se vuelven parte de nuestra vida*. El valor de un objeto, una práctica o una elección no se agota en sus características; las experiencias y relaciones pueden dotarlo de significados personales. Es una convicción interpretativa de marca, **no una afirmación estadística sobre todos los consumidores**.
+
+**Tensión central:** el café ya ocupa un lugar en las costumbres de muchas personas, pero Filio, como nueva marca sin reconocimiento, no lo ocupa todavía. La marca no debe apropiarse de memorias, relaciones o rituales previos ni atribuirse haberlos creado.
+
+**Propósito narrativo:** ganarse un lugar entre las preferencias de las personas mediante comprensión, una expresión reconocible y una experiencia de producto y servicio digna de repetirse.
+
+**Transformación buscada:** de café desconocido y primera curiosidad a elección personal recordada y eventualmente recurrente. La transformación no está conseguida ni medida.
+
+**Storytelling matriz, redacción estratégica aprobada como dirección interna:**
+
+> Las cosas adquieren significado cuando se vuelven parte de nuestra vida. El café forma parte de innumerables costumbres: cada persona tiene preferencias, maneras de prepararlo, momentos para disfrutarlo y razones para elegirlo. Algunas costumbres nos acompañan durante años; otras cambian, se comparten, se aprenden o se transmiten. El valor de una buena taza no termina en lo que contiene: también importa la experiencia de quien la prepara, disfruta y comparte. Filio no pretende decirle a las personas cómo deben vivir el café. Quiere comprender cómo lo viven, respetar esas diferencias y ofrecer una experiencia que merezca formar parte de ellas. Aspira a que lo prueben, encuentren algo que les guste, lo recuerden y descubran razones para volver. Porque el café ya tiene un lugar en sus vidas; Filio tiene que ganarse el suyo.
+
+Esta redacción editorializa fielmente la estructura ratificada y sirve **para uso interno**. No reemplaza la **cita literal y única** del concepto fundacional en 12.3. Si se requiriera una pieza pública o manifiesto final, requeriría revisión, prueba y aprobación independiente.
+
+### 13.3. Arquitectura narrativa aprobada
+
+| Nivel | Definición | Función en decisiones |
+|---|---|---|
+| **Creencia** | Las cosas adquieren significado mediante experiencias y relaciones | Da una perspectiva humana a la marca |
+| **Tensión** | El café está en sus vidas; Filio aún debe ganarse ese lugar | Impide declarar pertenencia o fidelidad por anticipado |
+| **Propósito narrativo** | Ganarse un lugar en sus preferencias | Orienta identidad, producto y relación comercial |
+| **Método** | Reconocer → Conectar → Merecer | Convierte la filosofía en comportamientos y filtros |
+| **Transformación** | De desconocido a elección apreciada y repetida | Define qué debe comprobarse en uso real |
+
+**Reconocer**: observar, escuchar y respetar las maneras diferentes de disfrutar el café, sin imponer un ritual, ridiculizar la especialidad ni confundir hábitos observados con costumbres universales. **Conectar**: interpretar esas observaciones para construir significado, emoción y reconocimiento en una identidad verbal, visual y experiencial propia. **Merecer**: sostener la expectativa mediante producto, información, atención, cumplimiento y experiencia de recompra; no solicitar lealtad por el mero atractivo del relato.
+
+Estos verbos son **principios internos aprobados**, no tres campañas, ni nombres de pilares de redes, ni un tagline de publicación automática.
+
+### 13.4. De la observación a la emoción: método creativo y límites
+
+**Método de creación aprobado como marco:** **Observación → Significado → Emoción → Expresión**. Se desarrolla en seis pasos de trabajo: (1) observar un comportamiento o detalle concreto; (2) comprender su contexto y relaciones; (3) identificar el significado personal posible; (4) reconocer la emoción que puede surgir sin dictársela al público; (5) convertirlo en expresión verbal, visual o experiencial propia; (6) conectar esa expresión con Filio solo cuando haya una relación relevante y honesta.
+
+La emoción no equivale a nostalgia ni exige historias melodramáticas. También puede tomar forma de complicidad, alegría, humor, orgullo, curiosidad, tranquilidad o placer. Un objeto doméstico no es una historia de marca por sí mismo: su potencial narrativo procede de la relación humana que lo dota de significado. Filio **no fabrica ni se apropia** de esos vínculos; puede aspirar a acompañarlos.
+
+**Distinción obligatoria:** **storytelling matriz** es la filosofía y el mecanismo con que Filio interpreta, decide y actúa; **relatos/editoriales** son aplicaciones eventuales; **storytelling de producto** requiere atributos verdaderos y fuentes comprobables; **historia de origen corporativo** solo podrá construirse con hechos acreditados. No confundir estos niveles.
+
+### 13.5. Principios que el storytelling impone a la marca
+
+- **Perspectiva humana sin paternalismo:** consumidor protagonista de su propia relación con el café; Filio no se proclama héroe.
+- **Pluralidad real:** costumbres diferentes, consumo solitario o compartido, distintas horas y grados de expertise; no imponer una estética única de consumo.
+- **Emoción demostrada por gestos y conductas:** preferir detalles concretos a declaraciones sobre «momentos inolvidables».
+- **Ingenio y sensibilidad con criterio:** observar antes de escribir; humor posible, nunca obligatorio; evitar sentimentalismo, ironía cruel y cliché de lifestyle.
+- **Peruanidad vivida y legítima:** situaciones locales reconocibles y atributos de origen solo documentados; evitar folclorismo.
+- **Relación merecida:** un discurso conmovedor no compensa producto débil, incertidumbre de entrega ni mal servicio.
+- **Sistema reconocible:** la mirada deberá traducirse a reglas gráficas y verbales repetibles, no solo a una colección de contenidos diversos.
+
+**Estado pendiente:** la identidad verbal definitiva, la voz expresiva única, su gramática visual, la misión, el posicionamiento y el tagline siguen abiertos a propuesta y prueba. Aprobar el storytelling rector no equivale a aprobar los cinco adjetivos históricos ni alguna de las rutas A/B/C de la sección 12.5.
+
+---
+
+## 14. Cinco valores de marca aprobados: creencias convertidas en conducta
+
+### 14.1. Aprobación, formulaciones y alcance
+
+**DECISIÓN APROBADA EXPRESAMENTE POR EL FUNDADOR (12/10/2026):** los **cinco valores de Filio** son **Autenticidad, Cercanía, Sensibilidad, Confianza y Aprecio por lo bien hecho**. Son valores rectores y no simples etiquetas de personalidad; el fundador aprobó las cinco definiciones y solicitó derivar acciones. No confundir los valores aprobados con los **cinco rasgos de personalidad** antes propuestos (cercana, genuina, cálida, segura y arraigada), cuyo cierre sigue pendiente.
+
+| Valor ratificado | Convicción resumida | Conducta que lo demuestra | Conducta que lo contradice |
+|---|---|---|---|
+| **Autenticidad** | Respetamos las maneras propias de disfrutar las cosas | Hablar con verdad, mostrar el café real, reconocer diversas costumbres y preferencias sin imponer una sola | Historias de origen inventadas, actuación cultural, atributos exagerados, elitismo invertido |
+| **Cercanía** | Nos acercamos a las personas desde la comprensión y el respeto | Escuchar, orientar, responder con naturalidad y facilitar decisiones | Confianza forzada, manipulación, insistencia, mensajes invasivos, automatización deshumanizante |
+| **Sensibilidad** | Reconocemos el significado que vive en los pequeños detalles | Observar relaciones, gestos y detalles; traducir significado y emoción con ingenio y precisión | Clichés, nostalgia automática, sentimentalismo, trivialización de personas |
+| **Confianza** | Sabemos que cada elección y cada regreso deben merecerse | Cumplir lo ofrecido, informar, hacerse cargo de errores, resolver fricciones | Ocultar condiciones, inventar testimonios, prometer tiempos o calidad no comprobados |
+| **Aprecio por lo bien hecho** | Cuidamos lo que hacemos porque queremos que valga la pena repetirlo | Respeto por el oficio del café, rigor de diseño, cuidado de ejecución y mejora con evidencia | Sacrificar precisión, calidad o usabilidad por adorno, complejidad o aparente sofisticación |
+
+**Derivación narrativa:** autenticidad se relaciona con respetar distintas maneras; cercanía con reconocer y comprender; sensibilidad con descubrir los significados de la experiencia; confianza con merecer la preferencia; aprecio por lo bien hecho con construir razones reales para repetir. No son cinco USPs ni prueba de una ventaja competitiva ya adquirida.
+
+### 14.2. Papel y jerarquía funcional
+
+**Autenticidad + Cercanía + Sensibilidad** orientan cómo Filio entiende, observa y expresa su relación con las personas. **Confianza + Aprecio por lo bien hecho** establecen la obligación de sostenerla en producto, diseño, transacción y servicio. Esta agrupación es una **lectura funcional propuesta**, no una jerarquía rígida que autorice omitir valores.
+
+**Sensibilidad** ofrece el potencial más específico para generar la perspectiva creativa propia, mediante observación → significado → emoción → expresión. **Aprecio por lo bien hecho** exige calidad de realización y limita las soluciones vistosas sin sustancia. **Autenticidad, cercanía y confianza** definen el trato ético y la coherencia experiencial. Su potencial distintivo debe demostrarse en aplicaciones; **nombrarlos no los hace exclusivos**.
+
+### 14.3. Valores y personalidad no son equivalentes
+
+Los **valores** explican lo que Filio defiende y cómo decide actuar; la **personalidad** explica cómo se siente, se expresa y es reconocida la marca. La calidez puede ser una manifestación de cercanía y sensibilidad; la seguridad, de confianza y oficio; el arraigo, una dimensión legítima de autenticidad cultural. No elevar automáticamente «peruanidad» a sexto valor ni dar por aprobada la personalidad anterior.
+
+---
+
+## 15. Plataforma de aplicaciones de los valores: criterios y acciones
+
+### 15.1. Método operativo
+
+**PROPUESTA DE IMPLEMENTACIÓN, NO APROBACIÓN DE CADA INICIATIVA:** **Valor → Comportamiento → Acción → Aplicación de marca → Evidencia**. Un valor tiene utilidad real cuando permite orientar, mejorar o descartar una decisión. Toda aplicación ha de ser coherente con los cinco, pero no está obligada a exhibirlos explícitamente a la vez. La evaluación incorpora un filtro adicional de **distintividad, viabilidad y experiencia**, además de coherencia ética.
+
+| Valor aprobado | Acción creativa o comercial propuesta | Aplicación prioritaria | Evidencia y control necesarios |
+|---|---|---|---|
+| **Autenticidad** | Documentar maneras de preparar y disfrutar; orientar sin jerarquizar; hablar desde el producto real | Investigación de hábitos, fotografía y narrativa auténticas; fichas de producto; guía de selección en web/WhatsApp | Fuente y permisos de observaciones, inventario verificable, atributos por SKU, compatibilidad real de molienda |
+| **Cercanía** | Escuchar antes de recomendar; conversar y resolver dudas; acompañar con respeto | Sistema de atención y voz; preguntas pertinentes; recorrido inicial transparente | Consultas resueltas, comprensión, fricción, reclamos, consentimiento para contacto |
+| **Sensibilidad** | Detectar un significado humano en un detalle y expresarlo con intención | Laboratorio de observación, gramática narrativa, recursos verbales y visuales diferenciadores | Trazabilidad de observación, relevancia humana, recuerdo/atribución en pruebas, ausencia de cliché |
+| **Confianza** | Mostrar condiciones reales; cumplir y hacerse cargo; facilitar retorno sin presión | Ficha y checkout, confirmación, entrega, incidencias, poscompra y eventual enlace de repetición | Cumplimiento, quejas y solución, satisfacción y segunda compra, costo y margen por pedido |
+| **Aprecio por lo bien hecho** | Probar producto, diseñar con intención, mejorar con evidencia | Degustaciones y preparación doméstica, control creativo y técnico, revisión continua de servicio | Comparación sensorial pertinente, revisión de piezas y accesibilidad, incidencias y aprendizajes |
+
+### 15.2. Aplicaciones por punto de contacto
+
+**Identidad verbal:** mensajes específicos, voz reconocible entre campaña, ficha técnica, WhatsApp y reclamo. **Identidad visual:** cada recurso responde a una observación/significado y una operación compositiva pertinente; no usar un motivo ornamental como sustituto de un concepto. **Producto:** información verificable, preparación orientativa validada y evaluación real del café. **Ecommerce:** elección sencilla, costo y condiciones explícitos, opciones reales de atención. **Atención:** escucha, precisión, respeto, corrección de errores. **Entrega y poscompra:** cumplimiento verificable y facilidad para repetir si es económicamente posible. **Cultura de trabajo:** decisiones críticas documentadas, rigor creativo y aprendizaje.
+
+**Resumen de aplicación para explicación al cliente (síntesis propuesta, no claim público):** Filio aspira a ser **reconocible por su identidad, cercana por su manera de relacionarse y preferida por la experiencia que ofrece**. Para ello representa honestamente distintas maneras de disfrutar el café (autenticidad), escucha y orienta (cercanía), traduce significados humanos en una expresión propia (sensibilidad), cumple y facilita comprar (confianza), y cuida producto, diseño y detalles (aprecio por lo bien hecho). Es un **objetivo**, no una reputación ya acreditada.
+
+### 15.3. Filtro Filio para evaluar decisiones
+
+Preguntar ante cualquier propuesta: **(1)** ¿respeta la realidad del producto y las maneras propias de las personas? **(2)** ¿comprende y trata con respeto al consumidor? **(3)** ¿nace de una observación o significado relevante? **(4)** ¿promete solo lo que puede cumplirse? **(5)** ¿está realizada con rigor e intención? Si contradice un valor, **revisar o descartar**, aunque parezca atractiva. Un resultado favorable no sustituye la prueba de diferenciación, viabilidad ni eficacia comercial. Las escalas numéricas utilizadas en ejercicios conversacionales son didácticas y **no constituyen KPI oficiales**.
+
+---
+
+## 16. Programa de seis iniciativas: entregables, validaciones y secuencia viable
+
+### 16.1. Naturaleza del programa
+
+**PLAN PROPUESTO PARA EJECUCIÓN Y APROBACIÓN OPERATIVA, NO ORDEN DE TRABAJO YA IMPLEMENTADA.** El fundador pidió desarrollar estas **seis iniciativas** como base de trabajo. El plan integra dos frentes simultáneos: **construcción de identidad** (observación, voz, visualidad) y **preparación de la realidad comercial** (verdad del producto, primera experiencia, recompra). No requiere abrir seis series documentales maestras ni contratar procesos complejos en el lanzamiento. Los volúmenes sugeridos son de planificación, no estándares estadísticos ni metas aprobadas.
+
+| Nº | Iniciativa | Valores dominantes | Entregables concretos propuestos | Criterio de validación y cierre |
+|---|---|---|---|---|
+| **1** | **Laboratorio de observación Filio** | Sensibilidad, autenticidad | Banco inicial orientativo de 20–30 observaciones; ficha de situación/contexto, fuente, significado, emoción y posibilidad de aplicación; clasificación temática; 5–7 hallazgos sintetizados | Observaciones trazables separadas de interpretaciones; tres hallazgos fértiles elegidos para prototipos de voz/visualidad; nada presentado como hábito universal |
+| **2** | **Sistema de voz y personalidad** | Cercanía, sensibilidad, autenticidad | Principios de voz; ritmo, humor, emoción y límites; recursos lingüísticos; ejemplos en editorial, comercio, ficha de producto, atención y reclamos | Una personalidad comprensible y consistente entre contextos; capacidad de orientar sin inventar datos; aprobación posterior de guía verbal final |
+| **3** | **Laboratorio de identidad visual** | Sensibilidad, aprecio por lo bien hecho | Tres mecanismos visuales **distintos** derivados del storytelling, con principio creativo y muestras en varias aplicaciones; matriz de comparación; una dirección preferida si supera pruebas | Coherencia, legibilidad, identidad reconocible y factibilidad con recursos y lote actual; elección experimental no aprueba automáticamente vector, logotipo, paleta o manual |
+| **4** | **Verdad del producto** | Autenticidad, confianza, aprecio por lo bien hecho | Inventario y ficha por SKU/lote; respaldo de origen y atributos; revisión de empaque; protocolo de degustación y preparación doméstica; matriz de claims permitidos/condicionados/no permitidos | Atributos y compatibilidad respaldados; identificación de muestras; textos comerciales verificables antes de publicar; no afirmar excelencia o especialidad sin prueba |
+| **5** | **Primera experiencia Filio** | Cercanía, confianza, aprecio por lo bien hecho | Mapa desde primer contacto hasta taza/poscompra; prototipo de web/WhatsApp; preguntas y respuestas; condiciones reales de pago/entrega; checklist y ensayos de pedidos completos | Comprador entiende la oferta, paga en condiciones claras, recibe lo prometido y tiene solución de incidencias; fallos críticos corregidos antes de piloto público |
+| **6** | **Experiencia de recompra** | Confianza, cercanía, aprecio por lo bien hecho | Registro de satisfacción/fricciones y motivos de no retorno; margen real por pedido; piloto de repetición simple; aprendizaje comercial documentado | Segunda compra observada cuando haya oportunidad de reposición; sistema viable en esfuerzo y margen; consentimiento para contactos; no confundir muestra pequeña con tasa estable |
+
+**Nota sobre diseño:** no alterar el empaque ya producido; trabajar con aplicaciones y material informativo permitidos y verificables. **Nota sobre mensajes:** las fichas y campañas no deben incorporar atributos sensoriales, procedencias, plazos ni precios no respaldados.
+
+### 16.2. Secuencia por fases y dependencias
+
+| Fase | Frente de identidad | Frente producto / operación | Condición de avance |
+|---|---|---|---|
+| **A — Fundamentos (inmediata)** | 1. Observación + inicio de 2. Voz | 4. Verdad del producto | Hallazgos creativos útiles y registro de riesgos/atributos del lote |
+| **B — Desarrollo** | Cierre exploratorio de 2. Voz + 3. Laboratorio visual | Fichas verificadas y preparación de pagos/logística | Prototipos reconocibles y restricciones de venta claras |
+| **C — Validación** | Aplicar voz y dirección visual a puntos de contacto | 5. Primera experiencia de compra | Producto, precio, pago, entrega y atención probados de extremo a extremo |
+| **D — Aprendizaje** | Ajustar expresión desde comentarios y datos | 6. Recompra tras primeras ventas | Información real de satisfacción, costos y retorno cuando corresponda |
+
+**Dependencias de seguridad comercial:** el laboratorio creativo **no está bloqueado** por una ficha completa de producto, pero ninguna promesa final de calidad, molienda, especialidad, entrega o precio puede publicarse hasta su comprobación. La fase de recompra **no comienza como automatización por defecto**; requiere primeras compras, consentimiento, costos conocidos y un intervalo razonable de reposición. No fijar un calendario semanal rígido sin responsables, muestras y disponibilidad operativa.
+
+### 16.3. Cuatro gates de aprobación propuestos
+
+1. **Gate 1 — Fundamento creativo:** observaciones relevantes y voz inicial coherente; habilita prototipos visuales. No ratifica personalidad final.
+2. **Gate 2 — Sistema reproducible:** la expresión verbal/visual funciona en aplicaciones distintas y con producto real; habilita preparación de materiales comerciales. No sustituye aprobación técnica del imagotipo.
+3. **Gate 3 — Primera compra confiable:** ficha, costo, pago, logística, atención y pedido completo han sido verificados; habilita piloto comercial controlado.
+4. **Gate 4 — Aprendizaje comercial:** datos de primeras ventas, incidencias, satisfacción y economía permiten decidir mejoras o ampliación. No se presupone retención ni escalabilidad.
+
+**Indicadores apropiados:** fuente y relevancia de insights; consistencia verbal y recuerdo/atribución de marca; legibilidad y factibilidad visual; validez de claims por SKU; finalización y cumplimiento del pedido; satisfacción; segundos pedidos reales; margen y costos. **No fijados todavía:** porcentajes de conversión, recuerdo, recompra, CAC, metas cuantitativas ni una muestra estadísticamente representativa.
+
+### 16.4. Prioridad y artefactos mínimos
+
+**Iniciar en paralelo:** 1. Observación y 4. Verdad del producto. **Desarrollar sobre los primeros hallazgos:** 2. Sistema de voz y luego 3. laboratorio visual. **Diseñar tempranamente, activar después de resolver dependencias:** 5. Primera experiencia. **Después de datos suficientes:** 6. Recompra.
+
+Usar **un registro operativo compacto** de seis iniciativas (responsable, entregable, estado, evidencia, decisión, próxima acción) y adjuntos de trabajo mínimos. Integrar decisiones de identidad en Branding / Diseño; decisiones de gobierno en Decision Log mediante HQ. No convertir en oficiales los ejemplos, plantillas de observación, matrices de puntuación o gates sin aprobación de implementación. Si se emplea una ficha de observación, distinguir **qué se vio**, **qué significa hipotéticamente**, **qué emoción puede activar**, **qué aplicación inspira** y **qué evidencia existe**.
+
+### 16.5. Decisiones aprobadas frente a propuestas
+
+| Componente | Estado al cierre de esta iteración |
+|---|---|
+| Concepto fundacional de 12.3 | **Aprobado por fundador** |
+| Storytelling matriz, arquitectura y método «Reconocer, conectar y merecer» | **Aprobados por fundador como principios internos** |
+| Cinco valores y sus definiciones | **Aprobados por fundador** |
+| Las seis iniciativas como base del trabajo siguiente | **Solicitadas expresamente por fundador** |
+| Entregables, cantidades, orden de fases, gates, indicadores y aplicaciones específicas | **No constituyen decisiones de ejecución ni resultados comprobados**; requieren definición técnica y comercial antes de implementarse |
+| Manifesto público, personalidad verbal final, sistema visual definitivo, misión y tagline | **Pendientes** |
+| Atributos técnicos, calidad comparativa, logística, economía de recompra y resultados comerciales | **Por verificar; sin nuevos datos externos de esta iteración** |
+
+---
+
+## 17. Tres rutas de posicionamiento aún abiertas
+
+**Lectura actualizada tras el Bloque IV:** son rutas históricas de posicionamiento propuestas durante el Bloque II. No compiten con el **concepto fundacional aprobado** (sección 12), ni equivalen a los tres territorios creativos A/B/C explorados durante la iteración reciente. Deben contrastarse con el concepto antes de elegir una formulación pública.
 
 ### Ruta A — El buen café de cada día
 
@@ -368,15 +641,15 @@ La identidad peruana podría surgir no solo del lugar de producción sino tambi�
 
 **Hipótesis de arquitectura, no aprobación:** una de las rutas podría ser el eje de posicionamiento; las otras, recursos de comunicación y experiencia. Todavía no asignarles jerarquía definitiva. Ninguna frase anterior es tagline o copy aprobado.
 
-## 13. Plataforma de diferenciación: lo que puede hacer propio Filio
+## 18. Plataforma de diferenciación: lo que puede hacer propio Filio
 
-### 13.1. Una corrección metodológica
+### 18.1. Una corrección metodológica
 
 **Diferenciador declarado no es ventaja competitiva probada.** El Bloque III tradujo las intuiciones de los dos primeros bloques en una arquitectura de cinco posibles diferenciadores. Son decisiones de diseño estratégico **PROPUESTAS**, no atributos exclusivos demostrados. Todos deben superar cuatro filtros: relevancia para el consumidor, reconocimiento frente a competidores, credibilidad desde el producto actual y posibilidad económica de implementarlos.
 
-**Hipótesis rectora:** «Filio es el buen café que encuentra su lugar en tu vida». Es una **formulación de trabajo, no tagline ni posicionamiento aprobado**. Propone que Filio no obligue a las personas a cambiar sus costumbres para disfrutar una buena taza. La comparación competitiva muestra que café cotidiano, cercanía y conveniencia ya se comunican en el sector; nuestra diferencia, si la construimos, tendrá que aparecer en comportamientos específicos, no en la mera declaración de esos conceptos.
+**Antecedente de hipótesis rectora anterior:** «Filio es el buen café que encuentra su lugar en tu vida». Fue una **formulación de trabajo, no tagline ni posicionamiento aprobado**, y ahora queda subordinada al concepto fundacional aprobado en la sección 12. Propone que Filio no obligue a las personas a cambiar sus costumbres para disfrutar una buena taza. La comparación competitiva muestra que café cotidiano, cercanía y conveniencia ya se comunican en el sector; nuestra diferencia, si la construimos, tendrá que aparecer en comportamientos específicos, no en la mera declaración de esos conceptos.
 
-### 13.2. Matriz de los cinco diferenciadores
+### 18.2. Matriz de los cinco diferenciadores
 
 | Propuesta | Sentido estratégico | Beneficio para el público | Condición para ser creíble | Capacidad distintiva / estado |
 |---|---|---|---|---|
@@ -386,9 +659,9 @@ La identidad peruana podría surgir no solo del lugar de producción sino tambi�
 | **4. Calidad comprensible sin barreras** | Ayudar a elegir y preparar sin exigir dominio de procesos, puntos y jerga | Menos incertidumbre, más disfrute posible | Fichas honestas; ensayos de uso; atributos comprobados | Condición competitiva que puede destacarse por ejecución |
 | **5. Recompra que se siente sencilla** | Hacer del regreso una experiencia de servicio: repetir pedido y recibirlo previsiblemente | Menor fricción, conveniencia y continuidad | Logística, margen, contacto consentido y experiencia efectiva | Diferenciación de servicio **condicionada** a operación |
 
-**Jerarquía recomendada:** el primero integra el posicionamiento exploratorio; el segundo y tercero ofrecen profundidad relacional/cultural; el cuarto y quinto deben probar el valor en producto y servicio. No publicitar cinco mensajes simultáneos como si fueran cinco USPs demostradas.
+**Jerarquía histórica recomendada en Bloque III, pendiente de reconsideración desde la sección 12:** el primero integraba el posicionamiento exploratorio; el segundo y tercero ofrecen profundidad relacional/cultural; el cuarto y quinto deben probar el valor en producto y servicio. No publicitar cinco mensajes simultáneos como si fueran cinco USPs demostradas.
 
-### 13.3. Quince accionables originales, estructurados en cinco frentes
+### 18.3. Quince accionables originales, estructurados en cinco frentes
 
 | Frente | Accionable A | Accionable B | Accionable C |
 |---|---|---|---|
@@ -402,15 +675,15 @@ La identidad peruana podría surgir no solo del lugar de producción sino tambi�
 
 ---
 
-## 14. Credibilidad y conexión emocional: promesas que deben verificarse
+## 19. Credibilidad y conexión emocional: promesas que deben verificarse
 
-### 14.1. Dos mecanismos, una experiencia
+### 19.1. Dos mecanismos, una experiencia
 
 **Credibilidad:** «Sé qué estoy comprando y confío en Filio». Se obtiene mediante transparencia, precisión, atención y cumplimiento. **Conexión emocional:** «Filio tiene un lugar en mi vida». Se desarrolla por identificación, experiencia placentera, familiaridad cultural y memoria. La primera compra exige confianza suficiente; la segunda exige que la taza y el servicio justifiquen volver. No son procesos automáticos ni garantizados.
 
 La experiencia de marca transcurre desde anuncio/recomendación → ficha/producto y atención → pedido y entrega → empaque/preparación → evaluación de la taza → poscompra → posible recompra/recomendación. En cada interacción, una comunicación cálida sin cumplimiento puede dañar la confianza; un cumplimiento eficiente sin identidad puede generar satisfacción sin preferencia de marca.
 
-### 14.2. Cinco pruebas de credibilidad
+### 19.2. Cinco pruebas de credibilidad
 
 | Prueba | Qué debe ver el usuario | Acción tangible | Evidencia requerida |
 |---|---|---|---|
@@ -422,7 +695,7 @@ La experiencia de marca transcurre desde anuncio/recomendación → ficha/produc
 
 La evaluación informal del fundador sobre uno de los cafés («interesante», comparable a buenos cafés locales, sin superioridad percibida frente a referentes premium) obliga a **no convertir «el mejor» ni «especialidad superior» en claim actual**. Una futura evidencia de calidad no debe suponerse retroactivamente.
 
-### 14.3. Tres vínculos emocionales y su función
+### 19.3. Tres vínculos emocionales y su función
 
 1. **Compañía personal:** café al trabajar, leer, pensar, descansar o iniciar el día. Evocar familiaridad sin romantizar rutinas ni afirmar que todos consumen igual.
 2. **Compañía compartida:** visitas, conversación, un café ofrecido y recomendado. La recomendación debe surgir de una experiencia satisfactoria, no de guiones promocionales fingidos.
@@ -430,11 +703,11 @@ La evaluación informal del fundador sobre uno de los cafés («interesante», c
 
 **Principio creativo propuesto:** Filio no necesita proclamar que transforma la vida; puede ser una presencia agradable en momentos que ya importan a las personas. Esta idea orienta escenas, narrativa y sensibilidad fotográfica, pero puede sonar genérica si no se desarrolla un lenguaje propio.
 
-### 14.4. «Momentos Filio», propuesta de participación, no programa aprobado
+### 19.4. «Momentos Filio», propuesta de participación, no programa aprobado
 
 Una iniciativa ligera podría invitar a compradores voluntarios a compartir fotos o relatos de cómo incorporan su café al día. Sus funciones serían recoger evidencia de consumo, fomentar comunicación auténtica y aprender preferencias. Empezar con un grupo pequeño, solicitar permisos explícitos de uso y no presentar una comunidad consolidada sin participación real. No convertir una acción de investigación en un supuesto éxito de fidelización.
 
-### 14.5. Tres proyectos priorizados e indicadores
+### 19.5. Tres proyectos priorizados e indicadores
 
 | Proyecto | Entregable verificable | Qué medir sin inventar metas |
 |---|---|---|
@@ -444,7 +717,7 @@ Una iniciativa ligera podría invitar a compradores voluntarios a compartir foto
 
 ---
 
-## 15. De los atributos del lote a los beneficios de marca
+## 20. De los atributos del lote a los beneficios de marca
 
 La plataforma no puede descansar sobre abstracciones. **Atributo → beneficio funcional → significado emocional → prueba → expresión de marca** es la cadena a emplear. Los beneficios sensoriales y económicos todavía están pendientes de evaluación.
 
@@ -463,7 +736,7 @@ La plataforma no puede descansar sobre abstracciones. **Atributo → beneficio f
 
 ---
 
-## 16. Misión: tres rutas de razón de ser, ninguna ratificada
+## 21. Misión: tres rutas de razón de ser, ninguna ratificada
 
 Una misión orienta decisiones de producto, marca y relación; no equivale a tagline ni tiene que enumerar todos los diferenciadores. Durante el Bloque III se propusieron tres textos literales:
 
@@ -477,18 +750,18 @@ Una misión orienta decisiones de producto, marca y relación; no equivale a tag
 
 ---
 
-## 17. Tagline: registro de selección y descartes irrevocables para esta iteración
+## 22. Tagline: registro de selección y descartes irrevocables para esta iteración
 
 La búsqueda se realizó en tres rondas exploratorias. El fundador prefirió dos expresiones iniciales y **rechazó explícitamente** las posteriores, pidiendo conservar solo esas dos como base para una futura sesión específica.
 
-### 17.1. Las únicas dos candidatas activas
+### 22.1. Las únicas dos candidatas activas
 
 1. **«El gusto de estar contigo.»** Territorio de compañía, placer sensorial y vínculo; su fuerza está en el doble sentido de *gusto* y *estar contigo*. Riesgo de generalidad y necesidad de evaluación de usos existentes.
 2. **«Lo bueno de cada día.»** Territorio de pequeñas experiencias cotidianas, simple y amplio; riesgo de ser aplicable a múltiples categorías sin suficiente distintividad.
 
 **ESTADO EXPRESO:** son **bases originales para explorar en el futuro**, **no taglines definitivos**. Ninguna ganó ni quedó seleccionada para publicación. No reincorporar alternativas rechazadas como finalistas.
 
-### 17.2. Historial de alternativas descartadas (archivo para no repetir)
+### 22.2. Historial de alternativas descartadas (archivo para no repetir)
 
 - «Lo pruebas. Se queda.» y «El gusto de volver.»: descartadas tras la primera exploración.
 - «Qué gusto acompañarte.», «Cada día, un buen momento.», «El gusto de cada día.», «Lo bueno de estar juntos.»: segunda iteración descartada; **no** mantener «El gusto de cada día» como candidata.
@@ -499,15 +772,15 @@ La búsqueda se realizó en tres rondas exploratorias. El fundador prefirió dos
 
 ---
 
-## 18. Personalidad de marca: propuesta de carácter, no decisión final
+## 23. Personalidad de marca: propuesta de carácter, no decisión final
 
-### 18.1. Definición propuesta
+### 23.1. Definición propuesta
 
 «Filio es una marca cálida, genuina y de buen criterio. Cercana en su trato, segura sin ostentación, contemporánea sin perder sus raíces y sensible a los pequeños placeres de la vida». Es una **propuesta del estratega**. El fundador solicitó explícitamente no ser responsable de inventar la personalidad; su rol es aportar contexto y aprobar/rechazar.
 
 **Síntesis propuesta:** *cercanía con criterio*. Esto evita dos extremos: familiaridad vacía e inaccesibilidad experta. La fórmula secundaria «la calidez de lo familiar y la seguridad de quien sabe apreciar las cosas buenas» sirve como brújula conceptual, no tagline.
 
-### 18.2. Cinco adjetivos y límites precisos
+### 23.2. Cinco adjetivos y límites precisos
 
 | Rasgo | Conducta reconocible | Contrapeso necesario | Estado |
 |---|---|---|---|
@@ -517,25 +790,25 @@ La búsqueda se realizó en tres rondas exploratorias. El fundador prefirió dos
 | **Segura** | Claridad, criterio y datos sólidos | No arrogante ni superlativa; no fingir expertise | Propuesta |
 | **Arraigada** | Perú contemporáneo en escenas, lenguaje y cultura real | No folclórica, reductiva ni tradicionalista | Propuesta |
 
-La marca debe ser **cercana sin ser común, genuina sin ser rústica, cálida sin ser sentimental, segura sin ser arrogante y arraigada sin ser tradicionalista**. «Cercana» y «genuina» son recomendaciones de dominancia, no aprobación expresa del fundador.
+Desde el concepto fundacional aprobado, estos rasgos deben dejar de ser etiquetas aisladas y comprobarse en actos: **comprender distintas costumbres** (cercana/arraigada), **expresar verdad sin impostación** (genuina/segura) y **acompañar sin invasión** (cálida). La marca debe ser **cercana sin ser común, genuina sin ser rústica, cálida sin ser sentimental, segura sin ser arrogante y arraigada sin ser tradicionalista**. «Cercana» y «genuina» son recomendaciones de dominancia, no aprobación expresa del fundador.
 
-### 18.3. Escalas de carácter orientativas
+### 23.3. Escalas de carácter orientativas
 
 Estas escalas ilustrativas fueron sugeridas en conversación, no son mediciones ni un brief visual aprobado: de reservada a expresiva **64/100**; de tradicional a contemporánea **68/100**; de casual a sofisticada **53/100**; de serena a enérgica **38/100**; de emocional a racional **44/100**. La numeración no debe convertirse en especificación rígida. El temperamento general apunta a una marca relativamente expresiva, contemporánea, serena y equilibrada entre naturalidad y buen criterio.
 
-### 18.4. Arquetipos, solo como referencia
+### 23.4. Arquetipos, solo como referencia
 
 **Everyperson/Compañero** como influencia de familiaridad, pertenencia y sencillez; **Caregiver/Cuidador** en medida moderada por hospitalidad y atención. Riesgos: personalidad común o paternalismo. No adoptar «Sabio» como eje de autoridad técnica ni «Rebelde» como antagonismo contra café de especialidad. **No hay arquetipo aprobado.**
 
-### 18.5. Diferenciación de carácter
+### 23.5. Diferenciación de carácter
 
 El carácter deberá manifestarse en pequeños giros de observación cotidiana, respuestas de servicio, diseño, presentaciones y composición visual. Declarar adjetivos no basta. La investigación creativa futura buscará una personalidad inequívocamente Filio, sin derivar de BUNA, COLO o Libertario y sin copiar una estética artesanal predeterminada.
 
 ---
 
-## 19. Arquitectura de voz: una expresión coherente con el carácter
+## 24. Arquitectura de voz: una expresión coherente con el carácter
 
-### 19.1. Declaración provisional
+### 24.1. Declaración provisional
 
 **«Filio habla con naturalidad, calidez y confianza».** Su voz es conversacional sin exceso de informalidad, conocedora sin pedantería, emocional sin sentimentalismo y peruana sin impostación. Debe reconocerse aun cuando no nombre café, granos, aroma o Perú.
 
@@ -547,15 +820,15 @@ El carácter deberá manifestarse en pequeños giros de observación cotidiana, 
 | Segura | Precisión de producto/operación, claridad al orientar | Evitar intimidación, presunción y claims no sustentados |
 | Arraigada | Español peruano natural y escenas culturales reales | Evitar peruanismos ornamentales y folclorismo |
 
-### 19.2. Ajuste situacional de tono
+### 24.2. Ajuste situacional de tono
 
 El tono cambia de intensidad, no de personalidad: publicidad puede ser más evocadora, la ficha de producto más informativa, WhatsApp más conversacional y la resolución de reclamos clara, sobria y responsable. Valores exploratorios usados en sesión: cercanía **85/100**, calidez **80**, claridad **90**, formalidad **35**, humor **30** y sofisticación verbal **40**. Son referencias internas, **no métricas ni normas ya aprobadas**.
 
-### 19.3. Principios de escritura
+### 24.3. Principios de escritura
 
-Hablar como las personas sin banalizar el producto; mostrar afecto mediante gestos en vez de declararlo; compartir conocimiento sin dar una clase no solicitada; comunicar seguridad sin presumir; expresar peruanidad naturalmente. El recurso distintivo adicional propuesto al probar ejemplos es el **ingenio cotidiano**: observaciones pequeñas y concretas que suenan vividas, no plantillas publicitarias. Aún no es rasgo aprobado; funciona como criterio de prueba creativa.
+Hablar como las personas sin banalizar el producto; mostrar afecto mediante gestos en vez de declararlo; compartir conocimiento sin dar una clase no solicitada; comunicar seguridad sin presumir; expresar peruanidad naturalmente. El concepto fundacional da una función concreta a la voz: **reconocer maneras reales de disfrutar café sin definir al consumidor por su nivel de expertise ni inventarle rutinas**. El recurso distintivo adicional propuesto al probar ejemplos es el **ingenio cotidiano**: observaciones pequeñas y concretas que suenan vividas, no plantillas publicitarias. Aún no es rasgo aprobado; funciona como criterio de prueba creativa.
 
-### 19.4. Copys exploratorios que ilustran la voz
+### 24.4. Copys exploratorios que ilustran la voz
 
 - Presentación: «Nos gusta el buen café. Y más todavía cuando podemos compartirlo».
 - Preparación: «Cada quien tiene su manera de preparar café. Queremos ayudarte a disfrutar la tuya».
@@ -568,7 +841,7 @@ Estos ejemplos **no son copys aprobados** y no justifican inventar condiciones, 
 
 ---
 
-## 20. Do's & Don'ts: guía de comportamiento verbal con ejemplos
+## 25. Do's & Don'ts: guía de comportamiento verbal con ejemplos
 
 La matriz conserva las trece dimensiones y **un ejemplo específico de copy para cada columna**, tal como se solicitó al cerrar el Bloque III. Los «Don'ts» son ejemplos deliberadamente incorrectos, no mensajes recomendados. Pueden utilizarse para entrenar redactores, revisar textos de ecommerce y QA de comunicación.
 
@@ -592,13 +865,13 @@ La matriz conserva las trece dimensiones y **un ejemplo específico de copy para
 
 ---
 
-## 21. Integración: de estrategia verbal a experiencia de marca
+## 26. Integración: de estrategia verbal a experiencia de marca
 
-### 21.1. Cadena de coherencia propuesta
+### 26.1. Cadena de coherencia propuesta
 
-**Necesidad humana** (buen café habitual sin pretensión) → **posible diferenciación** (se adapta a tu vida) → **beneficio** (elección y disfrute entendibles) → **personalidad** (cercana/genuina con criterio) → **voz** (conversación cálida, precisa y observadora) → **experiencia** (web/WhatsApp/empaque/entrega/poscompra) → **prueba** (taza satisfactoria + servicio cumplido) → **preferencia medible**. La cadena es un modelo para diseñar decisiones, no un hecho logrado.
+**Concepto fundacional aprobado** (ganarse un lugar reconociendo maneras, siendo recordable y dando razones para volver) → **necesidad humana** (buen café habitual sin pretensión) → **posible diferenciación** (se adapta a tu vida) → **beneficio** (elección y disfrute entendibles) → **personalidad** (cercana/genuina con criterio) → **voz** (conversación cálida, precisa y observadora) → **experiencia** (web/WhatsApp/empaque/entrega/poscompra) → **prueba** (taza satisfactoria + servicio cumplido) → **preferencia medible**. La cadena es un modelo para diseñar decisiones, no un hecho logrado.
 
-### 21.2. Matriz de implementación por contacto
+### 26.2. Matriz de implementación por contacto
 
 | Punto de contacto | Exigencia estratégica | Entregable inicial | Bloqueo/validación |
 |---|---|---|---|
@@ -609,7 +882,7 @@ La matriz conserva las trece dimensiones y **un ejemplo específico de copy para
 | Delivery / retiro | Cumplimiento y facilidad de recompra | Modelo piloto por zonas y pedidos | Rutas, costos, tiempos, punto real |
 | Poscompra | Escuchar y permitir regreso | Encuesta breve, gestión de incidentes, link de repetición | Historial, opt-in, consentimiento |
 
-### 21.3. Tres experimentos transversales
+### 26.3. Tres experimentos transversales
 
 1. **Cata + utilidad de preparación:** comparar Filio frente a opciones pertinentes con condiciones controladas y uso doméstico habitual; recoger aroma percibido, gusto, intención de recomendar y repetir. No inventar puntajes ni atributos.
 2. **Test cualitativo de identificación y comprensión:** presentar a consumidores prototipos de mensajes cotidianos, de descubrimiento y de peruanidad vivida; medir qué entienden y si recuerdan quién lo dijo. Evitar muestras que induzcan respuesta.
@@ -617,28 +890,34 @@ La matriz conserva las trece dimensiones y **un ejemplo específico de copy para
 
 ---
 
-## 22. Riesgos, decisiones, prioridades y tareas pendientes
+## 27. Riesgos, decisiones, prioridades y tareas pendientes
 
-### 22.1. Principales riesgos integrados
+### 27.1. Principales riesgos integrados
 
 | Riesgo | Por qué importa | Contención |
 |---|---|---|
 | **Marca más elaborada que el producto** | Promesa sensorial podría sobrepasar lote conocido | Cata independiente, mensajes proporcionales |
-| **Personalidad demasiado genérica** | Cercana/cálida/peruana ya son atributos comunes | Sistema verbal observador, visualidad y pruebas de distintividad |
+| **Personalidad demasiado genérica** | Cercana/cálida/peruana ya son atributos comunes | Aplicar el concepto fundacional a decisiones verificables: observación, códigos visuales recordables y pruebas de distintividad |
 | **Recompra prometida pero no operativa** | Delivery incierto y margen de bolsa bajo | Probar economía unitaria y piloto de entrega |
 | **Conexión emocional sin experiencia** | Campañas cálidas no sustituyen satisfacción | Medir taza, atención y cumplimiento |
 | **Peruanidad estilizada sin legitimidad** | Estereotipos o historias de origen sin respaldo | Evidencia real y observación de consumo |
 | **Decisiones confundidas con propuestas** | Se publicarían misiones/taglines/copies no aprobados | Registro de estados y aprobación en HQ |
 | **Dependencia de medios pagados** | Se puede comprar tráfico sin construir preferencia | CRM liviano consentido, medir CAC y recompra |
+| **Concepto aprobado confundido con éxito demostrado** | Ganarse un lugar es compromiso y dirección, no preferencia ya lograda | Separar pruebas de recuerdo, satisfacción y recompra; no publicitarlo como hecho |
+| **Ruta creativa propuesta tomada por aprobada** | La recomendación de explorar A no fue seleccionada por fundador | Marcar A/B/C como hipótesis de producción y comparar piezas |
 
-### 22.2. Estado de acuerdos, decisiones y candidatos al cierre de Bloque III
+### 27.2. Estado de acuerdos, decisiones y candidatos al cierre de Bloques III–V
 
 | Elemento | Estado correcto |
 |---|---|
 | Marca Filio, mercado inicial, lote terminado, grano/molido, operación digital prevista | **Confirmación del fundador**, con restricciones operativas por comprobar |
 | Exclusión de Altomayo, Britt y Juan Valdez de benchmark principal | **Decisión expresa del fundador** |
 | Benchmark latinoamericano con web/ecommerce, sin comparación de precios | **Criterio aprobado para investigación** |
-| Diferenciador «el buen café que encuentra su lugar en tu vida» | **Hipótesis del estratega, sin aprobación definitiva** |
+| Concepto fundacional de la sección 12, aprobado el 12/10/2026 | **APROBADO por fundador; registrado en HQ (FIL-DEC-021)**, no como claim, tagline ni cumplimiento demostrado |
+| Storytelling matriz, arquitectura narrativa y método «Reconocer, conectar y merecer» | **APROBADOS por fundador** como sistema rector interno; no manifiesto público |
+| Autenticidad, Cercanía, Sensibilidad, Confianza y Aprecio por lo bien hecho | **CINCO VALORES APROBADOS** por fundador |
+| Seis iniciativas, sus aplicaciones, entregables, gates y secuencia | **Plan operativo propuesto** para evaluación; no ejecutado |
+| Diferenciador histórico «el buen café que encuentra su lugar en tu vida» | **Hipótesis anterior subordinada al concepto fundacional**, no posicionamiento aprobado |
 | Cinco diferenciadores, quince acciones y jerarquía | **Propuestas desarrolladas**, no compromisos de ejecución |
 | Dos pilares confianza/conexión y «Momentos Filio» | **Propuestas exploratorias**, sin programa lanzado |
 | Beneficios funcionales/emocionales, pruebas de calidad | **Hipótesis**, salvo grano/molido y datos expresamente aportados |
@@ -647,40 +926,53 @@ La matriz conserva las trece dimensiones y **un ejemplo específico de copy para
 | Otras alternativas de tagline posteriores | **Descartadas expresamente** |
 | Cinco adjetivos, personalidad «cercanía con criterio» | **Propuesta del estratega**, no aprobación final |
 | Tono y Do's/Don'ts con copys | **Guía exploratoria v0.1**, no texto final para publicar |
+| Territorios creativos A/B/C de Bloque IV | **Explorados; ninguno elegido**. A recomendado únicamente como primera prueba |
 | Logo, paleta, tipografías, sistema visual, piezas finales | **No decididos** |
 
-### 22.3. Priorización de la próxima ejecución
+### 27.3. Priorización de la próxima ejecución
 
 1. **Crítico antes de claims y venta confiable:** inventario/lotes, procedencias verificadas, molienda por método, precio real, pruebas sensoriales, información del negocio y revisión del ecommerce público.
-2. **Alta y realizable en branding:** convertir este documento en decisiones selectivas de plataforma; aplicar pruebas de personalidad/voz con piezas y público, sin forzar cierre de tagline; definir dirección visual propia.
+2. **Alta y realizable en branding:** aplicar el concepto fundacional ya aprobado y convertir hipótesis restantes en decisiones selectivas de plataforma; aplicar pruebas de personalidad/voz con piezas y público, sin forzar cierre de tagline; definir dirección visual propia.
 3. **Alta condicionada en experiencia:** resolver delivery, pagos, costos por pedido, recojo, protocolos de atención y solicitud de opiniones; probar las primeras compras.
 4. **Después de datos reales:** recordatorios consentidos, recompra de un clic, ofertas por volumen, campañas escaladas y posible evolución de producto con el inversor.
 
 ---
 
-## 23. Evidencia, continuidad y control de versiones
+## 28. Evidencia, continuidad y control de versiones
 
-### 23.1. Trazabilidad de conocimiento
+### 28.1. Trazabilidad de conocimiento
 
-- **Fuente primaria interna:** respuestas y aprobaciones del fundador durante bloques I, II y III; ejemplos conversacionales conservados en la sección 5; decisiones de tagline y descartes documentadas en sección 17.
+- **Fuente primaria interna:** respuestas y aprobaciones del fundador durante bloques I, II y III; ejemplos conversacionales conservados en la sección 5; decisiones de tagline y descartes documentadas en sección 22.
 - **Competidores y referencias:** enlaces oficiales y límites de verificación registrados en secciones 9–10 de la v0.2, mantenidos en esta versión. Lo declarado por una marca no equivale a prueba independiente de calidad, logística o resultados.
 - **Síntesis del estratega:** diferenciadores, hipótesis de valor, misión, voz, ejemplos y proyectos de ejecución. No sustituye experimentos.
+- **Fuente metodológica de Bloque IV:** «Presentacion Marca.pdf» (15 páginas), con relato, valores, aplicaciones y sistema gráfico de Clara; desempeño comercial posterior según testimonio del fundador, no métricas auditadas.
+- **Aprobación directa de Bloque IV:** declaración textual íntegra del concepto fundacional del 12/10/2026 en conversación; separada de las rutas creativas exploradas y de la aprobación documental que se completó al integrarse la v0.7 en HQ.
+- **Bloque V (12/10/2026):** aprobación expresa en conversación de storytelling y cinco valores; aplicaciones, filtro de evaluación y plan de seis iniciativas propuestos. Las microhistorias de cucharita, taza y dos cafés fueron ejercicios descartados como storytelling matriz.
 - **No nuevos datos externos:** esta actualización integra lo investigado y conversado; no incorpora auditoría nueva del mercado, de producto ni campañas.
 
-### 23.2. Qué sigue sin conocerse
+### 28.2. Qué sigue sin conocerse
 
 Calidad sensorial comparada; evidencia técnica de especialidad; procedencias por SKU y fecha de tueste; stock y estado de conservación; costos, márgenes y costo puesto en casa; funcionamiento integral de checkout; logística; tamaño y composición del target real; eficacia de mensajes; satisfacción y tasa de recompra; disponibilidad legal y distintividad de frases. No inferir nada de ello desde el branding.
 
-### 23.3. Historial de evolución
+### 28.3. Historial de evolución
 
 | Versión | Fecha de corte | Evolución conceptual | Situación |
 |---|---|---|---|
-| v0.1 | 2026-10-09 | Exploración fundacional: consumidor, hábitos, negocio, producto y restricciones | Aprobada expresamente con nombre final `04_Filio_Branding_v0.1.md` |
-| v0.2 | 2026-10-09 | Benchmark local/internacional; se elimina la idea de territorio cotidiano virgen; estrategia como sistema y no claim aislado | Archivo aportado como base, **sin presumir aprobación formal** |
-| **v0.3** | **2026-10-09** | **Bloque III integrado:** cinco diferenciales, planes de acción, credibilidad y vínculo, beneficios y pruebas, tres misiones, historia de taglines, personalidad, voz, 13 Do's/Don'ts con ejemplos, sistema de activación y estados explícitos | **Borrador para revisión y aprobación** |
+| v0.1 | 2026-10-09 | Discovery: consumidor, hábitos, producto y restricciones | Antecedente aprobado |
+| v0.2 | 2026-10-09 | Benchmark local y latinoamericano; corrección de saturación competitiva | Antecedente de trabajo |
+| v0.3 | 2026-10-09 | Integración de diferenciadores, credibilidad, misión, voz, tagline, personalidad y matrices de copy | Antecedente de trabajo |
+| v0.4 | 2026-10-11 | Aprobación como fuente oficial viva en HQ, relacionada con Diseño v0.3 | Antecedente, sustituido el 12/10 |
+| v0.5 | 2026-10-12 | Concepto fundacional aprobado, caso Clara, referencias y tres territorios creativos | Propuesta anterior; sin ratificación documental HQ constatada |
+| **v0.6** | **2026-10-12** | **Integra storytelling matriz y metodología aprobados, cinco valores aprobados, sistema de aplicaciones y plan operativo de seis iniciativas; reinterpreta personalidad/experiencia y estados de decisión** | Propuesta de la sesión especializada; integrada posteriormente en HQ como v0.7 |
+| v0.7 | 2026-10-12 | Cierre de etapa fundacional, integración de concepto/storytelling/valores y control del programa propuesto | Versión oficial anterior, sustituida por v0.8 sin nuevas decisiones estratégicas |
+| **v0.8** | **2026-10-12** | **Depuración editorial de estados, referencias y comparaciones históricas, sin alterar el núcleo fundacional aprobado** | **OFICIAL, APROBADA Y VIGENTE** |
 
-**Cambio esencial de v0.3:** Filio deja de tener únicamente una agenda de exploración y benchmarks. Ahora dispone de una **plataforma verbal-estratégica prototipada**, todavía sin decisión final, capaz de producir briefs para ecommerce, fotografía, campañas, servicio y diseño. El hecho de que exista una plataforma de trabajo no implica que sus elementos sean exclusivos, comprobados o aprobados.
+**Comparación histórica: qué aportó v0.6 sobre v0.5:** incorpora el storytelling rector aprobado y lo diferencia expresamente de las microhistorias publicitarias; convierte cinco valores ratificados en conductas verificables; establece aplicaciones, seis iniciativas, dependencias, gates y límites de evidencia sin afirmar su ejecución.
 
-**Publicación:** mantener `04_Filio_Branding_v0.3.md` como candidato de evolución. Tras aprobación editorial, sustituir conscientemente la fuente activa desde HQ y actualizar `Hola Filio.md` si se autoriza incorporar la serie 04 al índice oficial. No afirmar sincronización o limpieza técnica sin acción verificable.
+**Comparación histórica: cambio respecto de v0.4 (vigente hasta su sustitución en HQ):** la plataforma ya no termina en cinco diferenciadores yuxtapuestos; adquiere una idea fundacional aprobada que orienta su selección y conecta comprensión de distintas maneras de disfrutar el café, recordación de marca y razones demostrables para repetir. Se reconoce el caso Clara como modelo de trazabilidad entre problema, carácter, expresión y uso; se distingue con precisión entre concepto aprobado y rutas creativas todavía abiertas. No se atribuyen nuevos resultados de mercado, calidad de producto, métricas de recompra ni aprobaciones visuales.
 
-**Fin del documento.**
+### 28.4. Control de publicación y dependencias
+
+**Cierre editorial HQ, 12/10/2026:** `04_Filio_Branding_v0.8.md` es el **único documento vigente de la serie 04** para esta consolidación. El concepto fundacional, storytelling y valores aprobados se han registrado en Decision Log v0.5; Status, Master Brief, Roadmap, Diseño y `Hola Filio.md` se actualizan como conjunto. El fundador sustituirá después las copias en repositorio local, GitHub y biblioteca del Project. **No se certifica sincronización, publicación remota ni nueva prueba de inicialización** por el solo hecho de entregar el ZIP.
+
+**Fin del documento final de la etapa fundacional de Branding v0.8.**
